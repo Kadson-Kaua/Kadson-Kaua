@@ -1,10 +1,11 @@
 # Olá, eu sou o Kadson Kauã! 👋
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/kadson-almeida-730b53286" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="kadsonalmeida14@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
-Sou um desenvolvedor Back-end.
+Desenvolvedor Back-end.
 
 ---
 
@@ -27,11 +28,13 @@ Sou um desenvolvedor Back-end.
 
 ---
 
-### 📊 Estatísticas no GitHub
+### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kadson-Kaua&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kadson-Kaua&layout=compact&langs_count=7&theme=github_dark"/>
 </p>
+
+---
 
 ---
