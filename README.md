@@ -12,7 +12,7 @@ Desenvolvedor Back-end.
 ### 👨‍💻 Sobre Mim
 
 - 🐍 Focado em desenvolvimento **Back-end** com o ecossistema Python e Django.
-- 💡 Experiência prática no desenvolvimento de **aplicações web Full Stack**, incluindo projetos como o **WorldMath** e um **sistema de gerenciamento para uma cafeteria**.
+- 💡 Experiência prática no desenvolvimento de **aplicações web Full Stack**.
 
 ---
 
